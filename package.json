@@ -16,9 +16,10 @@
   "bugs": {
     "url": "https://github.com/jean1880/sat-node/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.12.4"
+  },
   "devDependencies": {
-
     "grunt-contrib-jshint": "~0.6.4",
     "grunt-contrib-watch": "~0.5.3",
     "grunt": "~0.4.1",
